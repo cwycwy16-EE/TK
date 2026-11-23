@@ -1,0 +1,6 @@
+interface:
+  display_name: "两国语言本地化（菲律宾/越南）"
+  short_description: "承接已确认中文稿，双线用生图模型制作菲律宾和越南版本，翻译简洁准确并复核排版"
+  default_prompt: "使用 $image-localization 将已确认的中文图片用生图模型制作成菲律宾英语和越南语两套，翻译简洁准确、保留商品和版式，逐图复核后交付。"
+policy:
+  allow_implicit_invocation: true

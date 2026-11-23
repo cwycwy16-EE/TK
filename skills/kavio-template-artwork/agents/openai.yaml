@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文样板图制作（KAVIO母版）"
+  short_description: "筛选实拍首图，用生图模型制作整套中文主图详情与SKU，确认后衔接本地化"
+  default_prompt: "使用 $kavio-template-artwork 从这个产品素材中挑选合适首图，按KAVIO母版用生图模型制作整套中文样板，统一主推色并逐图复核。"
