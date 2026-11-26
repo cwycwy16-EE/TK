@@ -1,0 +1,6 @@
+interface:
+  display_name: "本地化图片翻译"
+  short_description: "用图像生成模型翻译并排版商品图片，保留每张原图自身的风格"
+  default_prompt: "使用 $image-localization-translation 本地化我上传的商品图片，逐张保留原图风格并检查交付。"
+policy:
+  allow_implicit_invocation: true

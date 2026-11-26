@@ -1,0 +1,13 @@
+{
+  "name": "image-localization-translation-ocr",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Optional local OCR helpers",
+  "dependencies": {
+    "sharp": "0.35.5",
+    "tesseract.js": "7.0.0",
+    "@tesseract.js-data/chi_sim": "1.0.0",
+    "@tesseract.js-data/eng": "1.0.0",
+    "@tesseract.js-data/vie": "1.0.0"
+  }
+}
